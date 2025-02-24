@@ -1,2 +1,2 @@
 # Web-to-BigQuery-JobPost-Scraper
-This repository contains the python scripts I used to scrape job postings from the web using BeautifulSoup and requests, clean the scraped data using pandas Gemini API, and warehouse data using Google BigQuery.
+This is part of my Data Analyst Job Scraping Project. This repository contains the python scripts for deploying the job analytics dashboard webapp through streamlit.This repository contains the python scripts I used to scrape job postings from the web using BeautifulSoup and requests, clean the scraped data using pandas Gemini API, and warehouse data using Google BigQuery.
